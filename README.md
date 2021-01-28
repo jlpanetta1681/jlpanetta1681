@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**jlpanetta1681/jlpanetta1681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Joseph L. Panetta
+Full stack Web Developer/software developer
+Lambda school online full stack web dev program 
+aug/2020 to feb/2021
 
 - 🔭 I’m currently working on vallage book builders. A labs project at lambd school
 - 🌱 I’m currently learning how to navigate the job search part of this journey.
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email or linkedin...jlpanetta1681@icloud.com.  linkedin/jlpanetta1681..
 - 😄 Pronouns: not particularly important at all to me.. ...
 - ⚡ Fun fact: I am a former world proffesional karate commission and USAKF top ten contender and international 3rd place champion 1996,97,98...
--->
