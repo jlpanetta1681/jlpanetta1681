@@ -4,7 +4,7 @@ Welcome to my HUB!!
 
 
 Joseph L. Panetta
-www.Veroskill.com
+www.Veroskills.com
 Junior Q.A. Engineer
 July, 01, 2022 until presesnt
 Bloom Institute of Technology(Formerly Lambda) full stack web dev program 
