@@ -11,8 +11,7 @@ Feb, 2022 until presesnt
 Bloom Institute of Technology(Formerly Lambda) full stack web dev program 
 Jul/2020 to March/2021
 
-- 🔭 I am currently working on buildoing a website for a rollerskating shop that includes a chat area, a Storefront, a map of local skating rinks and more.
-- A challenge I am having is learning to use the next js image component and positioned elements with z indexing to layer eleents on the page properly.
+- 🔭I am currently working on building an AI chatbot uusing NExtjs, Prisma, And clerk. ]. 
 - 🌱 I’m actively and aggressively studying to move up to a software engineering role within the company ASAP.
 - 👯 I’m looking to collaborate on anything that will help me and/or others grow and learn.
 - 🤔 I’m looking for help with understanding databases and their design and use.
